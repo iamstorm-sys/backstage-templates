@@ -5,6 +5,6 @@ metadata:
   name: example-nodejs-template-ts
   title: Example Node.js Template TS
   description: An example template for the scaffolder that creates a simple Node.js service
-spec:
-  owner: example-service@.come
-  type: service
+# spec:
+#   owner: example-service@.come
+#   type: service
