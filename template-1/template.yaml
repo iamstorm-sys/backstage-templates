@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Template
+metadata:
+  name: demo-template
+  title: Demo Template
+  description: Create a Demo Project
+  tags:
+    - recommended
+    - demo
+spec:
+  type: service
+  owner: demo-service@examle.com
